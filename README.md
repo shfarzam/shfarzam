@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shahriar Farzam
+- 👀 I’m interested in work on new and amazing Idea
+- 🌱 I’m currently learning Python, Java, AWS and Microsoft Azure DevOps
+- 💞️ I’m looking to collaborate on new Idea
+- 📫 You can reach me on Linkedin
